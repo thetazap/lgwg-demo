@@ -8,4 +8,3 @@ GameFi — a portmanteau of “game” and “finance” — **involves blockcha
 # NFT
 A non-fungible token is a financial security consisting of digital data stored in a blockchain, a form of distributed ledger. The ownership of an NFT is recorded in the blockchain, and can be transferred by the owner, allowing NFTs to be sold and traded.
 
-hello
