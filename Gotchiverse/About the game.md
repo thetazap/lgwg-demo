@@ -1,0 +1,1 @@
+The [[Gotchiverse]] is **Pixelcraft Studio's flagship title that celebrates the best of blockchain technology**. The metaverse is built on Aavegotchi, an open-source, community owned, NFT gaming protocol that unlocks true asset ownership for gamers.

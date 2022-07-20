@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "dad64e5d775d21c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "36d673031d7e0f94",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "web 3.0/Web 3.0.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "5d59f8ffa3c0d2e9"
+      },
+      {
+        "id": "268c0e0520206ec7",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "web 3.0/Web 3.0.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": false,
+              "colorGroups": [
+                {
+                  "query": "file:Web 3.0",
+                  "color": {
+                    "a": 1,
+                    "rgb": 14701138
+                  }
+                },
+                {
+                  "query": "path:\"Web 3.0\"",
+                  "color": {
+                    "a": 1,
+                    "rgb": 12669664
+                  }
+                },
+                {
+                  "query": "path:nfts",
+                  "color": {
+                    "a": 1,
+                    "rgb": 11657298
+                  }
+                },
+                {
+                  "query": "path:games",
+                  "color": {
+                    "a": 1,
+                    "rgb": 159234
+                  }
+                },
+                {
+                  "query": "path:Gotchiverse",
+                  "color": {
+                    "a": 1,
+                    "rgb": 5431473
+                  }
+                },
+                {
+                  "query": "path:Pegaxy",
+                  "color": {
+                    "a": 1,
+                    "rgb": 5431473
+                  }
+                }
+              ],
+              "collapse-display": false,
+              "showArrow": true,
+              "textFadeMultiplier": -0.5,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1.37410184085511,
+              "collapse-forces": false,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.0794126958102548,
+              "close": true
+            }
+          }
+        },
+        "group": "5d59f8ffa3c0d2e9"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05b705bf5401259c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6daebcfe4b5673b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d526296caebb1e42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f8672e8bdfb4424",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276
+  },
+  "right": {
+    "id": "f58d2a6f199ad957",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6f0742be244f0f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32f23677bc16b504",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "web 3.0/Web 3.0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "36d673031d7e0f94",
+  "lastOpenFiles": [
+    "web 3.0/Web 3.0.md",
+    "web 3.0/nft.md",
+    "Pasted image 20220718085837.png",
+    "Gotchiverse/Ecocystem.md",
+    "Pegaxy/Ecocystem.md",
+    "Pegaxy/About the game.md",
+    "Pegaxy/Developer to player rewards.md",
+    "Pegaxy/Team.md",
+    "Gotchiverse/Team.md",
+    "Gotchiverse/Developer to Player rewards.md"
+  ]
+}

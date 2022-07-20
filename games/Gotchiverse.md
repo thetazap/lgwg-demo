@@ -1,0 +1,5 @@
+[[gamefi]]
+[[Gotchiverse/About the game]]
+[[Gotchiverse/Developer to Player rewards]]
+[[Gotchiverse/Ecocystem]]
+[[Gotchiverse/Team]]

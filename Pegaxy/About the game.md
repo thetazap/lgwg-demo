@@ -1,0 +1,1 @@
+[[Pegaxy]]  is **a play-to-earn PVP style horse racing game where players compete for top 3 placement against 11 other racers**. Each race has randomised elemental variables which include wind, water, fire, speed and more.
